@@ -10,7 +10,7 @@ Live demo
 # Live demo
 
 Link: 
-https://quivercrypto.netlify.app/home
+https://very-bootstrapped.netlify.app
 
 ## NPM Packages
 
