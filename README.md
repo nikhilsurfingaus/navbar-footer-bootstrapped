@@ -6,7 +6,6 @@ This simple web app, makes use of Bootstrap to style and organise the navbar,
 section and footer componenents into a simple web application
 
 
-Live demo
 # Live demo
 
 Link: 
