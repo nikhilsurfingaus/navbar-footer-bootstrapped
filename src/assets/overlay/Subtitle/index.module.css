@@ -1,0 +1,15 @@
+.Container {
+    margin: 24px auto 0;
+    padding: 0;
+    width: 80%;
+    text-align: center;
+    font-size: 1.75rem;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+@media only screen and (max-width: 768px) {
+    .Container {
+        font-size: 1rem;
+    }
+}
